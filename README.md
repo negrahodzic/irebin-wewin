@@ -1,4 +1,4 @@
-![Poster for finals](iReBin-weWin-poster-for-finals.pdf)
+![Poster for finals](iReBin-weWin-poster-for-finals.png)
 
 
 
