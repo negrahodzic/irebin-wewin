@@ -1,3 +1,7 @@
+![Poster for finals](iReBin-weWin poster for finals.pdf)
+
+
+
 # 🌱 iReBin, weWin
 
 **Nottingham's Smart Recycling Community Platform**
